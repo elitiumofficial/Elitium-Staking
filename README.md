@@ -6,7 +6,7 @@ Grow your EUM balance with staking coin EUMS, receiving up to 6.5% in EUMS rewar
 
 - Download and install the latest eums wallet on Windows - https://github.com/elitiumofficial/eums/releases
 
-- Stake your coins
+- Stake your EUMS coins
 
 - Earn a 6.5% reward
 
