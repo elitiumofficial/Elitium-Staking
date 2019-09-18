@@ -10,7 +10,9 @@ Grow your EUM balance with staking coin EUMS, receiving up to 6.5% in EUMS rewar
 
 - Stake your EUMS coins
 
-- Earn a 6.5% reward<br>
+- Earn a 6.5% reward
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n56Gu-RMQps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <br>
 
 <p align="center">For more information<br>
