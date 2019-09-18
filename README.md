@@ -2,7 +2,7 @@
 
 # Elitium-Staking
 
-## 6.5% Reward for Staking Elitium
+6.5% Reward for Staking Elitium
 
 Grow your EUM balance with staking coin EUMS, receiving up to 6.5% in EUMS rewards. The process couldn’t be more simple, just:
 
