@@ -13,5 +13,8 @@ Grow your EUM balance with staking coin EUMS, receiving up to 6.5% in EUMS rewar
 - Earn a 6.5% reward<br>
 <br>
 
+<br>
+<br>
+
 <p align="center">For more information<br>
 https://www.elitium.io</p>
